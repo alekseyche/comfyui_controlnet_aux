@@ -1,0 +1,8 @@
+ComfyUI/user/default/ComfyUI-Manager/cache/
+*.aria2
+.pnpm-store/
+
+# 输出和输入目录 （需要同步请删掉或#注释化 )
+/output/
+/input/
+!/input/example.png

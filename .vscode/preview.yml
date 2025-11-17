@@ -6,3 +6,4 @@ apps:
     root: ./ComfyUI  # ComfyUI项目目录
     name: ComfyUI  # 应用名称
     autoPreview: true  # 自动打开预览
+    
